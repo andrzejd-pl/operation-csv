@@ -11,6 +11,9 @@ int main() {
 	Column_Double cd;
 	//Column<bool> cb;
 
+	/*Problem z utworzeniem klasy, czy te¿ obiektu typu Column<bool>.
+	Problem wystêpuje przy metodzie Column::functionToDo().*/
+
 
 	return 0;
 } // int main()
